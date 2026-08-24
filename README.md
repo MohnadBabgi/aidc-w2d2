@@ -6,3 +6,6 @@ Lab W2D2: wrap the model
 
 ![API test with curl](images/Screenshot%202026-08-24%20144141.jpg)
 *Testing the OpenAI-compatible `/v1/chat/completions` endpoint via `curl`, showing a successful streaming response from the locally hosted Qwen model.*
+
+![Verification script](images/Screenshot%202026-08-24%20150202.jpg)
+*Running `verify.py` to confirm the Qwen2.5-0.5B-Instruct model responds correctly — showing token usage and a GREEN CHECK: PASS result.*
